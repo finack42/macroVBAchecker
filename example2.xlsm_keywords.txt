@@ -1,0 +1,13 @@
+INFO: Check of document example2.xlsm and module Module1 is starting...
+WARNING: Suspicious keywords were found:
+&H
+====================== END OF MACRO ======================
+INFO: Check of document example2.xlsm and module Module2 is starting...
+INFO: There aren't any suspicous keywords!
+INFO: Check of document example2.xlsm and module Module3 is starting...
+INFO: There aren't any suspicous keywords!
+INFO: Check of document example2.xlsm and module Module4 is starting...
+INFO: There aren't any suspicous keywords!
+
+------------------------------------------------------------------------------------------
+There is a total number of 4 VBA Macros in document "example2.xlsm".
